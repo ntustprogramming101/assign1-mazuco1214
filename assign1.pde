@@ -79,7 +79,6 @@ void draw() {
   image(robot,robotX,robotY);
   robotY=robotPlace*80; 
   
-  
 }
 
 
